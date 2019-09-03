@@ -1,0 +1,2 @@
+# cunchugeshi
+将遥感数据辐射亮度数据由BSQ格式转存成BIL格式，以方便FLAASH大气校正
